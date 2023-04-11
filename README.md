@@ -8,4 +8,5 @@ Desafio de Projeto sobre GIT/GitHub
 Ctrl + D ( apaga linha)<br>
 Ctrl + M (Maximiza e Minimiza)<br>
 Ctrl + 3 (abre lupa para criar construtores automaticamente, tambem para criar Get e Set)<br>
-Ctrl + Shift + F = Refatorar código
+Ctrl + Shift + F = Refatorar código<br>
+Para alterar posição de bloco, aperte ALT + Seta direcional
