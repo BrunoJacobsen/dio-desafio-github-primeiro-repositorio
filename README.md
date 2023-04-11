@@ -5,6 +5,7 @@ Desafio de Projeto sobre GIT/GitHub
 [Sintaxe Basica Markdown](https://www.markdownguide.org/)
 
 ## Atalhos Ecplipse
-Ctrl + D ( apaga linha)
-Ctrl + M (Maximiza e Minimiza)
-Ctrl + 3 (abre lupa para criar construtores automaticamente, tambem para criar Get e Set)
+Ctrl + D ( apaga linha)<br>
+Ctrl + M (Maximiza e Minimiza)<br>
+Ctrl + 3 (abre lupa para criar construtores automaticamente, tambem para criar Get e Set)<br>
+Ctrl + Shift + F = Refatorar código
