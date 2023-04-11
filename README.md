@@ -9,4 +9,5 @@ Ctrl + D ( apaga linha)<br>
 Ctrl + M (Maximiza e Minimiza)<br>
 Ctrl + 3 (abre lupa para criar construtores automaticamente, tambem para criar Get e Set)<br>
 Ctrl + Shift + F = Refatorar código<br>
-Para alterar posição de bloco, aperte ALT + Seta direcional
+Para alterar posição de bloco, aperte ALT + Seta direcional<br>
+Atalho  impressão sysout +  ctrl + space + enter<br>
